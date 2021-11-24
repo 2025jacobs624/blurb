@@ -1,0 +1,58 @@
+body {
+  background-color: #333333;
+  text-align: center;
+}
+
+
+h1 {
+  color: #7c142c;
+  font-family: inherit;
+  font-size: 200%;
+}
+#9a9a8e
+
+p {
+  color:    #7c142c ;
+  font-family: fantasy;
+  font-size: 100%;
+  
+}
+
+a:link {
+  color: green;
+  background-color: #542b29;
+  text-decoration: none;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+
+div {
+  height: 400px;
+  width: 10%;
+  background-color: #542b29;
+  margin: auto;
+font-size: 200%;
+}
+.dot {
+  height: 90px;
+  width: 90px;
+  background-color: #542b29;
+  border-radius: 100%;
+  display: inline-block;
+}
